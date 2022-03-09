@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>885558265547-pq64dmqld0rqk0nee93oft1b6ptj0ejv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.885558265547-pq64dmqld0rqk0nee93oft1b6ptj0ejv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJkyUOgkF8Zjn58gN6Jh_mwOGHWNxW2ZI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>885558265547</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>app.com.walkie</string>
+	<key>PROJECT_ID</key>
+	<string>walkie-eb1f6</string>
+	<key>STORAGE_BUCKET</key>
+	<string>walkie-eb1f6.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:885558265547:ios:abb4dea9c9cacf21b0bd4e</string>
+</dict>
+</plist>
