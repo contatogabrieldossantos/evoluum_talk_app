@@ -2,11 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:flutter_modular/flutter_modular.dart';
 
 class AppWidget extends StatelessWidget {
+
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
+    return MaterialApp.router(
+      title: 'Evoluum Talk',
       debugShowCheckedModeBanner: false,
-      initialRoute: '/',
       theme: ThemeData(
         appBarTheme: AppBarTheme(color: Colors.purple),
         primaryColorLight: Colors.purple,
@@ -17,7 +18,9 @@ class AppWidget extends StatelessWidget {
             primary: Colors.white,
           ),
         ),
-      )
-    ).modular();
+      ),
+      routerDelegate: Modular.routerDelegate,
+      routeInformationParser: Modular.routeInformationParser,
+    );
   }
 }
