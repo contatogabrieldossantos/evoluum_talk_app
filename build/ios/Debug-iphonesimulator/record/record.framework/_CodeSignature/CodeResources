@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/record.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		/Oq2HZiAweuafJOX58RKcyczkLI=
+		6KR9hxUCfP1KHCq1Dvgu0Q8D/gw=
 		</data>
 		<key>Modules/record.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/record.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		/Oq2HZiAweuafJOX58RKcyczkLI=
+		6KR9hxUCfP1KHCq1Dvgu0Q8D/gw=
 		</data>
 		<key>Modules/record.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/record.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		sWJN/2GEZWILgiAuxF8AhdgupN4=
+		g9APD9Uuz2dmOrGjSY73thNPIag=
 		</data>
 		<key>Modules/record.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>Modules/record.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		sWJN/2GEZWILgiAuxF8AhdgupN4=
+		g9APD9Uuz2dmOrGjSY73thNPIag=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -178,11 +178,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Oq2HZiAweuafJOX58RKcyczkLI=
+			6KR9hxUCfP1KHCq1Dvgu0Q8D/gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Et+2Fgw6lJl7gA5MSfIuyPKrx1+lFpktfNX5XMAvx6w=
+			lp59vXD8T25kQNDUlXbPodLHdZPIHqXZqkgDGSsxVgQ=
 			</data>
 		</dict>
 		<key>Modules/record.swiftmodule/arm64.swiftdoc</key>
@@ -200,11 +200,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/Oq2HZiAweuafJOX58RKcyczkLI=
+			6KR9hxUCfP1KHCq1Dvgu0Q8D/gw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Et+2Fgw6lJl7gA5MSfIuyPKrx1+lFpktfNX5XMAvx6w=
+			lp59vXD8T25kQNDUlXbPodLHdZPIHqXZqkgDGSsxVgQ=
 			</data>
 		</dict>
 		<key>Modules/record.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -222,11 +222,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sWJN/2GEZWILgiAuxF8AhdgupN4=
+			g9APD9Uuz2dmOrGjSY73thNPIag=
 			</data>
 			<key>hash2</key>
 			<data>
-			oziW8CcqLJPyw6Wnsitzqte30P0QVZV8NLWJ5efjSv4=
+			sDBP8zdU/VWaMVQSIE3zzg12oNhPobty5bDmCjfXU/M=
 			</data>
 		</dict>
 		<key>Modules/record.swiftmodule/x86_64.swiftdoc</key>
@@ -244,11 +244,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sWJN/2GEZWILgiAuxF8AhdgupN4=
+			g9APD9Uuz2dmOrGjSY73thNPIag=
 			</data>
 			<key>hash2</key>
 			<data>
-			oziW8CcqLJPyw6Wnsitzqte30P0QVZV8NLWJ5efjSv4=
+			sDBP8zdU/VWaMVQSIE3zzg12oNhPobty5bDmCjfXU/M=
 			</data>
 		</dict>
 	</dict>
